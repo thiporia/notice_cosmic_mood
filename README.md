@@ -6,7 +6,7 @@ This repository hosts the legal information (Privacy Policy and Terms of Service
 
 - `index.html`: Landing page.
 - `privacy.html`: Privacy Policy.
-- `terms.html`: Terms of Service.
+- `privacy-ledger.html`: Privacy Policy for 심플 가계부.
 - `css/`: Stylesheets.
 - `js/`: JavaScript files.
 
