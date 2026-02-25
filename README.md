@@ -1,12 +1,10 @@
-# Cosmic Mood - Legal Information Site
-
-This repository hosts the legal information (Privacy Policy and Terms of Service) for the **Cosmic Mood** application.
+# 개인정보처리방침 모음
 
 ## Structure
 
 - `index.html`: Landing page.
-- `privacy.html`: Privacy Policy.
-- `privacy-ledger.html`: Privacy Policy for 심플 가계부.
+- `privacy.html`: Privacy Policy for 감정 우주.
+- `privacy-ledger.html`: Privacy Policy for 쉽게 쓰는 가계부.
 - `css/`: Stylesheets.
 - `js/`: JavaScript files.
 
